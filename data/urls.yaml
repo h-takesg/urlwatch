@@ -1,0 +1,7 @@
+kind: url
+name: example
+url: https://example.com/
+filter:
+        - css: 'h1'
+        - html2text
+
