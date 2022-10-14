@@ -1,5 +1,5 @@
 # ここは
-webページの監視を行うコンテナ
+webページの監視を行うdocker-compose
 中身はurlwatch
 
 # 仕様
