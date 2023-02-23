@@ -22,6 +22,8 @@ webページの監視を行うdocker-compose
 ```
 
 # 設定
+Official Doc: https://urlwatch.readthedocs.io/en/latest/
+
 ## 監視間隔
 cronで管理されている
 `data/crontab`を書き換えればよい
