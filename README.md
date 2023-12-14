@@ -27,6 +27,7 @@ Official Doc: https://urlwatch.readthedocs.io/en/latest/
 ## 監視間隔
 cronで管理されている
 `data/crontab`を書き換えればよい
+所有者はroot，パーミッションはw権限がrootだけにあるようにする
 一部だけ別間隔にしたければ参照する`urls.yaml`を複数作り，オプションを変える
 
 ## 更新がなくても通知を投げる
